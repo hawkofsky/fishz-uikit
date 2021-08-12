@@ -2807,7 +2807,7 @@ var baseColors = {
     primary: "#FDB525",
     primaryBright: "#FDB525",
     primaryDark: "#FDB525",
-    secondary: "#7645D9",
+    secondary: "#FDB525",
     success: "#31D0AA",
     warning: "#FFB237",
 };
